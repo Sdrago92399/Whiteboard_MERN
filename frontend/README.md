@@ -74,9 +74,3 @@ Here are the scripts extracted from the `package.json` file:
 - `eslint-plugin-react-refresh`: ESLint plugin for React Fast Refresh.
 - `postcss`: Tool for transforming CSS.
 - `vite`: Build tool for modern web projects.
-
-## react-dotenv Whitelist
-
-To securely access environment variables in your application, ensure to whitelist them in `react-dotenv`:
-
-```json
